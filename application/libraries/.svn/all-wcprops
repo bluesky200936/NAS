@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uscsvn/IR/!svn/ver/1/application/libraries
+END
+REST_Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uscsvn/IR/!svn/ver/1/application/libraries/REST_Controller.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uscsvn/IR/!svn/ver/1/application/libraries/index.html
+END
+MY_Exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uscsvn/IR/!svn/ver/1/application/libraries/MY_Exceptions.php
+END
+MY_Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uscsvn/IR/!svn/ver/1/application/libraries/MY_Log.php
+END
+Format.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uscsvn/IR/!svn/ver/1/application/libraries/Format.php
+END
