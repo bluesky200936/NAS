@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uscsvn/IR/!svn/ver/2/application/config
+END
+migration.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uscsvn/IR/!svn/ver/1/application/config/migration.php
+END
+doctypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uscsvn/IR/!svn/ver/1/application/config/doctypes.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uscsvn/IR/!svn/ver/1/application/config/database.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uscsvn/IR/!svn/ver/2/application/config/config.php
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uscsvn/IR/!svn/ver/1/application/config/autoload.php
+END
+foreign_chars.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uscsvn/IR/!svn/ver/1/application/config/foreign_chars.php
+END
+mimes.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uscsvn/IR/!svn/ver/1/application/config/mimes.php
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uscsvn/IR/!svn/ver/1/application/config/constants.php
+END
+rest.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uscsvn/IR/!svn/ver/1/application/config/rest.php
+END
+user_agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uscsvn/IR/!svn/ver/1/application/config/user_agents.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uscsvn/IR/!svn/ver/1/application/config/routes.php
+END
+profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uscsvn/IR/!svn/ver/1/application/config/profiler.php
+END
+hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uscsvn/IR/!svn/ver/1/application/config/hooks.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uscsvn/IR/!svn/ver/1/application/config/index.html
+END
+smileys.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uscsvn/IR/!svn/ver/1/application/config/smileys.php
+END
