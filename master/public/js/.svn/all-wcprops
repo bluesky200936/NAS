@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/uscsvn/IR/!svn/ver/18/public/js
+END
+register.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uscsvn/IR/!svn/ver/18/public/js/register.js
+END
+query.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uscsvn/IR/!svn/ver/2/public/js/query.js
+END
+modify.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uscsvn/IR/!svn/ver/5/public/js/modify.js
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uscsvn/IR/!svn/ver/18/public/js/login.js
+END
+bootstrap-rating-input.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uscsvn/IR/!svn/ver/1/public/js/bootstrap-rating-input.js
+END
+query_0326.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uscsvn/IR/!svn/ver/1/public/js/query_0326.js
+END
+project_info.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uscsvn/IR/!svn/ver/5/public/js/project_info.js
+END
+long_polling.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uscsvn/IR/!svn/ver/1/public/js/long_polling.js
+END
