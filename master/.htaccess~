@@ -1,8 +1,0 @@
-RewriteEngine on
-RewriteBase /nas/
-RewriteCond $1 !^(index\.php|images|robots\.txt|$)
-RewriteRule ^(.*)$ index.php/$1 [L,QSA]
-
-#RewriteEngine on
-#RewriteCond $1 !^(index\.php)
-#RewriteRule ^(.*)$ index.php/$1 [L]
