@@ -3,3 +3,4 @@ IR/*
 origin20140326/*
 */.svn
 ci.tgz/*
+application/config/database.php
